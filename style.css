@@ -14,7 +14,7 @@ header {
 }
 
 img {
-  width: 70%;
+  width: 100%;
 }
 
 header p {
@@ -31,6 +31,7 @@ header p {
 
 .banner {
   display: flex;
+  gap: 50px;
   justify-content: space-between;
   align-items: center;
   height: 100vh;
